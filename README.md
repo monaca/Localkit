@@ -2,6 +2,8 @@
 
 This contains release version of Monaca Localkit. Please use this repository for the change logs and issue report.
 
+The latest version: v1.1.4
+
 * [Change log](https://github.com/monaca/Localkit/releases)
 * [List of issues](https://github.com/monaca/Localkit/issues)
 * [Monaca Cloud issues](https://monaca.mobi/en/headline/fault) (external link)
