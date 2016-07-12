@@ -12,4 +12,4 @@ The latest version: v2.0.3
 
 * [How to debug](HOW_TO_DEBUG.md)
 * [Monaca updates](https://monaca.mobi/en/headline) (external link)
-* [Monaca Localkit Document](docs.monaca.mobi/cur/en/manual/development/monaca_localkit/) (external link)
+* [Getting Started with Monaca Localkit](https://docs.monaca.io/en/manual/development/monaca_localkit/) (external link)
