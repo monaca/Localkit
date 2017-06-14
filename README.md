@@ -2,7 +2,7 @@
 
 This contains release version of Monaca Localkit. Please use this repository for the change logs and issue report.
 
-The latest version: v2.3.1
+The latest version: v2.3.2
 
 * [Change log](https://github.com/monaca/Localkit/releases)
 * [List of issues](https://github.com/monaca/Localkit/issues)
