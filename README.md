@@ -11,5 +11,6 @@ The latest version: v4.0.3
 ## Resources
 
 * [How to debug](HOW_TO_DEBUG.md)
+* [Troubleshooting](TROUBLESHOOTING.md)
 * [Monaca updates](https://monaca.io/headline/index.html) (external link)
 * [Getting Started with Monaca Localkit](https://docs.monaca.io/en/manual/development/monaca_localkit/) (external link)
